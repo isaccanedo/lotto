@@ -1,6 +1,6 @@
 Lotofacil
 =========
 
-Running an example: ruby bin/lotofacil.rb
+Executando o exemplo: ruby bin/lotofacil.rb
 
-Testing: bundle exec rspec --format documentation
+Testando: bundle exec rspec --format documentation
